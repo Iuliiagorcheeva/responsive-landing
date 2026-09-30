@@ -1,0 +1,1 @@
+{"name":"bereg-landing","version":"1.0.0","private":true,"type":"module","scripts":{"start":"node server.mjs","build":"node build.mjs","check":"node --check app.js && node --check server.mjs"}}

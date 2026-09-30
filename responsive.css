@@ -1,0 +1,86 @@
+html{scroll-behavior:smooth} :focus-visible{outline:3px solid #d76f52;outline-offset:5px} [hidden]{display:none!important}
+.skip-link{position:fixed;top:-80px;left:16px;z-index:50;background:white;padding:16px}.skip-link:focus{top:16px}
+body> [data-node-id="5:3047"]{width:100%;height:auto}
+[data-node-id="5:3047"]> *{width:100%;padding-left:max(5%,calc((100% - 1296px)/2));padding-right:max(5%,calc((100% - 1296px)/2))}
+[data-node-id="5:3047"]>[data-name="Первый экран"]{padding:0;height:auto}
+[data-name="Навигация"],[data-name="Главное предложение"]{padding-left:max(5%,calc((100% - 1296px)/2));padding-right:max(5%,calc((100% - 1296px)/2))}
+[data-name="Заголовок раздела"],[data-name="Текст предложения"]{max-width:100%}
+[data-name="Карточки запросов"]{display:grid;grid-template-columns:repeat(2,minmax(0,1fr))}
+[data-name="Запрос семьи"]{width:auto;height:auto;min-height:210px}
+[data-name="Список направлений"]{display:grid;grid-template-columns:repeat(3,minmax(0,1fr))}
+[data-name="Направление"]{width:auto;height:auto;min-height:256px;transition:transform .2s}
+[data-name="Направление"]:hover{transform:translateY(-4px)}
+[data-name="Кнопка"]{cursor:pointer;text-align:center;transition:filter .2s,transform .2s;text-decoration:none;line-height:1.4;white-space:normal}
+[data-name="Кнопка"]:hover{filter:brightness(.94);transform:translateY(-2px)}
+[data-name="Кнопка"]>p{white-space:normal;min-width:0;flex-shrink:1}
+[data-name="Ссылки"] a:hover{color:var(--accent)}
+[data-name="Фото и карточка"]{min-width:0}
+img[src$=".svg"]{width:auto;height:auto;max-width:none}
+[data-name="Декоративная точка"]{overflow:hidden}
+[data-name="Карточка знакомства"]{max-width:calc(100% - 48px)}
+[data-name="Форма записи"]{min-width:0}
+[data-name="Поля формы"]{display:grid;grid-template-columns:repeat(2,minmax(0,1fr))}
+[data-name="Поля формы"] input,[data-name="Поля формы"] textarea{background:var(--sand);border:1px solid #d8d2c6;border-radius:12px;width:100%;padding:18px;color:var(--ink);font-size:13px;min-width:0}
+[data-name="Поля формы"] textarea{grid-column:1/-1;resize:vertical;min-height:58px}
+.form-status{font-size:13px;line-height:1.6;color:#53635e;width:100%}
+.menu-toggle{display:none;border:1px solid #d8d2c6;border-radius:24px;background:transparent;padding:10px 16px;color:var(--ink);cursor:pointer}
+[data-name="Строка вопроса"]{background:transparent;padding:0;text-align:left;cursor:pointer;color:inherit}
+[data-name="Вопрос"]>p{max-width:100%}.faq-answer{font-size:13px;color:#53635e;line-height:1.6;margin-top:16px}
+[data-name="Правовая информация"]{border-color:rgba(255,255,255,.18)}
+.info-dialog{border:0;border-radius:24px;padding:32px;max-width:560px;width:calc(100% - 40px);color:var(--ink);background:var(--paper)}.info-dialog::backdrop{background:#233a3688}.info-dialog h2{font:600 28px Lora,Georgia,serif;margin-bottom:20px}.info-dialog p{line-height:1.7}.dialog-close{display:block;margin:24px 0 0 auto;padding:12px 22px;border-radius:24px;background:var(--green);color:white;cursor:pointer}
+@media(max-width:1250px){
+ [data-name="Навигация"]{flex-wrap:wrap;height:auto;min-height:92px;gap:20px;padding-top:20px;padding-bottom:20px}
+ [data-name="Ссылки"]{order:3;width:100%;justify-content:center}
+ [data-name="Главное предложение"]{gap:32px;height:auto}
+ [data-name="Текст предложения"]{width:50%}[data-node-id="5:3073"]{font-size:52px}[data-node-id="5:3074"]{width:100%}
+ [data-name="Действия"]{flex-wrap:wrap}[data-name="Фото и карточка"]{height:610px}
+ [data-name="Сигналы для обращения"],[data-name="Этапы и фотография"],[data-name="Преимущества центра"],[data-name="Частые вопросы"],[data-name="Запись на консультацию"]{gap:36px}
+ [data-name="Вводная часть"]{width:34%}[data-name="Вводная часть"] [data-name="Заголовок раздела"]{width:100%}
+ [data-name="Заголовок и действие"],[data-name="Заголовок специалистов"],[data-name="Заголовок отзывов"]{gap:28px;flex-wrap:wrap}
+ [data-name="Фотография подхода"]{width:42%}[data-name="Содержание преимуществ"]{width:45%}
+ [data-name="Малые фотографии"]{width:38%}[data-name="Цитата команды"]{height:auto;min-height:205px;padding:20px}
+ [data-name="Призыв и контакты"]{width:45%}[data-name="Призыв и контакты"]>p{max-width:100%}
+ [data-name="Контактные способы"],[data-name="Отправка формы"]{flex-wrap:wrap}
+ [data-name="Контакты"]{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:36px}
+ [data-name="Контакты"]>*{width:auto}[data-name="Правовая информация"]{white-space:normal;gap:24px;flex-wrap:wrap}
+ [data-name="Опыт и специализация"]{flex-wrap:wrap;gap:6px}
+}
+@media(max-width:900px){
+ [data-node-id="5:3047"]>*{padding-top:64px;padding-bottom:64px}
+ [data-name="Навигация"]{gap:14px}[data-name="Контактные действия"]{margin-left:auto}[data-name="Телефон"]{display:none}
+ .menu-toggle{display:block}[data-name="Ссылки"]{display:none;align-items:stretch;gap:0}[data-name="Ссылки"].is-open{display:flex;flex-direction:column}[data-name="Ссылки"] a{padding:14px 0}
+ [data-name="Сигналы для обращения"],[data-name="Преимущества центра"],[data-name="Частые вопросы"],[data-name="Запись на консультацию"]{flex-direction:column;align-items:stretch}
+ [data-name="Вводная часть"],[data-name="Содержание преимуществ"],[data-name="Призыв и контакты"]{width:100%}
+ [data-name="Показатели доверия"]{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:30px}[data-name="Показатель"]{width:auto;white-space:normal}
+ [data-name="Главное предложение"]{align-items:stretch}[data-node-id="5:3073"]{font-size:42px}[data-node-id="5:3074"]{font-size:16px}[data-name="Вводная метка"] p{white-space:normal;font-size:11px}
+ [data-name="Фото и карточка"]{height:auto;min-height:580px}[data-name="Карточка знакомства"]{padding:16px;gap:10px;left:16px;bottom:16px;max-width:calc(100% - 32px)}[data-node-id="5:3096"]{white-space:normal}
+ [data-name="Список направлений"]{grid-template-columns:repeat(2,minmax(0,1fr))}
+ [data-name="Этапы и фотография"]{gap:28px}[data-name="Фотография подхода"]{height:560px}[data-name="Подпись к фотографии"]{max-width:calc(100% - 32px);left:16px}
+ [data-name="Фотографии пространства"]{flex:auto;height:530px}[data-name="Малые фотографии"]{width:35%}
+ [data-name="Карточки специалистов"],[data-name="Карточки отзывов"]{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:28px}[data-name="Портрет"]{height:340px}
+ [data-name="Отзыв"]:last-child{grid-column:1/-1}[data-name="Специалист"]:last-child{max-width:100%}
+ [data-name="Форма записи"]{flex:auto}[data-name="Контактные способы"]>*{white-space:normal}
+}
+@media(max-width:600px){
+ [data-node-id="5:3047"]>*{padding:48px 20px;gap:32px}
+ [data-name="Навигация"]{padding:20px;gap:10px}[data-name="Контактные действия"] [data-name="Кнопка"]{display:none}
+ .menu-toggle{margin-left:auto}
+ [data-name="Главное предложение"]{flex-direction:column;padding:28px 20px 48px;gap:32px}
+ [data-name="Текст предложения"]{width:100%;gap:24px}[data-node-id="5:3073"]{font-size:42px;line-height:1.08}
+ [data-name="Фото и карточка"]{flex:auto;min-height:0;height:460px;border-radius:32px}
+ [data-name="Показатели доверия"]{gap:26px 16px;padding-bottom:28px}[data-name="Показатель"] p:first-child{font-size:25px}[data-name="Показатель"] p:last-child{font-size:12px}
+ [data-name="Заголовок раздела"]{width:100%}[data-name="Заголовок раздела"] h2,[data-node-id="5:3409"]{font-size:32px;line-height:1.15}
+ [data-name="Карточки запросов"],[data-name="Список направлений"]{grid-template-columns:1fr;gap:14px}
+ [data-name="Запрос семьи"]{min-height:0;gap:14px}[data-name="Направление"]{min-height:0;padding:24px}
+ [data-name="Этапы и фотография"]{flex-direction:column;align-items:stretch}[data-name="Фотография подхода"]{width:100%;height:430px}
+ [data-name="Этап работы"]{gap:14px}[data-name="Этап работы"]> [data-name="arrow-right"]{display:none}
+ [data-name="Фотографии пространства"]{height:410px;gap:12px}[data-name="Малые фотографии"]{gap:12px;width:40%}[data-name="Цитата команды"]{padding:16px;min-height:180px}[data-node-id="5:3280"]{font-size:16px}
+ [data-name="Карточки специалистов"],[data-name="Карточки отзывов"]{grid-template-columns:1fr}[data-name="Портрет"]{height:360px}[data-name="Отзыв"]{min-height:0}
+ [data-name="Контактные способы"]{flex-direction:column;align-items:stretch}[data-name="Контактные способы"]>*{flex:auto}
+ [data-name="Форма записи"]{padding:24px;gap:18px}[data-node-id="5:3419"]{white-space:normal;font-size:24px}
+ [data-name="Поля формы"]{grid-template-columns:1fr}[data-name="Отправка формы"]{align-items:stretch;flex-direction:column}
+ [data-name="Контакты"]{grid-template-columns:1fr;gap:32px}[data-name="Правовые ссылки"]{flex-wrap:wrap;gap:16px}
+ [data-name="Быстрый контакт"]>p{white-space:normal}[data-name="Кнопка"]{max-width:100%;height:auto;min-height:54px;padding-top:14px;padding-bottom:14px}
+ [data-name="Рубрика"] p{white-space:normal}.d0 p{max-width:100%}
+}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{transition:none!important}}

@@ -1,0 +1,1108 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/a2c04518-8bd6-457f-a91f-fa780e2eb645";
+const img2 = `${assetPathPrefix}/cff8a.png`;
+const img5 = `${assetPathPrefix}/7816f.png`;
+const img7 = `${assetPathPrefix}/42893.png`;
+const img8 = `${assetPathPrefix}/81d1f.png`;
+const img9 = `${assetPathPrefix}/b2f3d.png`;
+const img10 = `${assetPathPrefix}/6e68d.png`;
+const img11 = `${assetPathPrefix}/38eb6.png`;
+const img = `${assetPathPrefix}/f4e6e.svg`;
+const imgSpeech = `${assetPathPrefix}/f4dd6.svg`;
+const imgPuzzle = `${assetPathPrefix}/a0c4a.svg`;
+const imgCloudSun = `${assetPathPrefix}/06391.svg`;
+const imgHandHeart = `${assetPathPrefix}/6576d.svg`;
+const imgSprout = `${assetPathPrefix}/17191.svg`;
+const img1 = `${assetPathPrefix}/1a68b.svg`;
+const imgArrowRight = `${assetPathPrefix}/effb2.svg`;
+const img3 = `${assetPathPrefix}/44f8c.svg`;
+const imgSun = `${assetPathPrefix}/6f480.svg`;
+const imgMessageCircleHeart = `${assetPathPrefix}/b6a51.svg`;
+const img4 = `${assetPathPrefix}/80745.svg`;
+const imgArrowUpRight = `${assetPathPrefix}/f7c14.svg`;
+const imgBrain = `${assetPathPrefix}/f6b69.svg`;
+const imgArrowUpRight1 = `${assetPathPrefix}/47139.svg`;
+const imgMessagesSquare = `${assetPathPrefix}/502a1.svg`;
+const imgPersonStanding = `${assetPathPrefix}/74c78.svg`;
+const imgHeartHandshake = `${assetPathPrefix}/475b5.svg`;
+const imgGraduationCap = `${assetPathPrefix}/8e73a.svg`;
+const imgUsers = `${assetPathPrefix}/963d4.svg`;
+const img6 = `${assetPathPrefix}/c9905.svg`;
+const imgArrowRight1 = `${assetPathPrefix}/a7fbe.svg`;
+const imgUsersRound = `${assetPathPrefix}/55dd0.svg`;
+const imgRoute = `${assetPathPrefix}/61e98.svg`;
+const imgShieldCheck = `${assetPathPrefix}/43983.svg`;
+const imgStar = `${assetPathPrefix}/833ee.svg`;
+const img12 = `${assetPathPrefix}/8c1cc.svg`;
+const imgMessagesSquare1 = `${assetPathPrefix}/f817f.svg`;
+const imgMinus = `${assetPathPrefix}/2640c.svg`;
+const imgPlus = `${assetPathPrefix}/471e6.svg`;
+const imgHeart = `${assetPathPrefix}/f9a45.svg`;
+const imgSprout1 = `${assetPathPrefix}/c8033.svg`;
+const imgMapPin = `${assetPathPrefix}/76a4f.svg`;
+const imgSend = `${assetPathPrefix}/a5c23.svg`;
+const imgMessageCircle = `${assetPathPrefix}/d370c.svg`;
+
+export default function Component() {
+  return (
+    <div className="bg-[#f5f1e9] content-stretch flex flex-col items-start relative size-full" data-node-id="5:3047" data-name="Сайт центра Берег">
+      <div className="bg-[#fffdf8] content-stretch flex flex-col gap-[68px] items-start overflow-clip pb-[104px] pt-[88px] px-[72px] relative shrink-0 w-[1440px]" data-node-id="5:3098" data-name="Кому подходит центр">
+        <div className="[word-break:break-word] border-[#d8d2c6] border-b border-solid content-stretch flex items-start justify-between leading-[normal] overflow-clip pb-[40px] relative shrink-0 w-full whitespace-nowrap" data-node-id="5:3099" data-name="Показатели доверия">
+          <div className="content-stretch flex flex-col gap-[4px] items-start overflow-clip relative shrink-0 w-[260px]" data-node-id="5:3100" data-name="Показатель">
+            <p className="font-['Lora:SemiBold'] font-semibold relative shrink-0 text-[#233a36] text-[32px]" data-node-id="5:3101">
+              8 лет
+            </p>
+            <p className="font-['Manrope:Regular'] font-normal relative shrink-0 text-[#53635e] text-[13px]" data-node-id="5:3102">
+              поддерживаем детей и родителей
+            </p>
+          </div>
+          <div className="content-stretch flex flex-col gap-[4px] items-start relative shrink-0 w-[260px]" data-node-id="5:3103" data-name="Показатель">
+            <p className="font-['Lora:SemiBold'] font-semibold relative shrink-0 text-[#233a36] text-[32px]" data-node-id="5:3104">
+              14 специалистов
+            </p>
+            <p className="font-['Manrope:Regular'] font-normal relative shrink-0 text-[#53635e] text-[13px]" data-node-id="5:3105">
+              работают одной командой
+            </p>
+          </div>
+          <div className="content-stretch flex flex-col gap-[4px] items-start overflow-clip relative shrink-0 w-[260px]" data-node-id="5:3106" data-name="Показатель">
+            <p className="font-['Lora:SemiBold'] font-semibold relative shrink-0 text-[#233a36] text-[32px]" data-node-id="5:3107">
+              2–12 лет
+            </p>
+            <p className="font-['Manrope:Regular'] font-normal relative shrink-0 text-[#53635e] text-[13px]" data-node-id="5:3108">
+              возраст наших маленьких клиентов
+            </p>
+          </div>
+          <div className="content-stretch flex flex-col gap-[4px] items-start overflow-clip relative shrink-0 w-[260px]" data-node-id="5:3109" data-name="Показатель">
+            <p className="font-['Lora:SemiBold'] font-semibold relative shrink-0 text-[#233a36] text-[32px]" data-node-id="5:3110">
+              4,9
+            </p>
+            <p className="font-['Manrope:Regular'] font-normal relative shrink-0 text-[#53635e] text-[13px]" data-node-id="5:3111">
+              средняя оценка родителей
+            </p>
+          </div>
+        </div>
+        <div className="content-stretch flex gap-[78px] items-start overflow-clip relative shrink-0 w-full" data-node-id="5:3112" data-name="Сигналы для обращения">
+          <div className="content-stretch flex flex-col gap-[28px] items-start overflow-clip relative shrink-0 w-[430px]" data-node-id="5:3113" data-name="Вводная часть">
+            <div className="content-stretch flex flex-col gap-[16px] items-start overflow-clip relative shrink-0 w-[430px]" data-node-id="5:3114" data-name="Заголовок раздела">
+              <div className="content-stretch flex gap-[8px] items-center overflow-clip relative shrink-0" data-node-id="5:3115" data-name="Рубрика">
+                <div className="relative shrink-0 size-[8px]" data-node-id="5:3116" data-name="Маркер">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={img} />
+                </div>
+                <p className="[word-break:break-word] font-['Manrope:ExtraBold'] font-extrabold leading-[normal] relative shrink-0 text-[#53635e] text-[13px] uppercase whitespace-nowrap" data-node-id="5:3117">
+                  Когда стоит обратиться
+                </p>
+              </div>
+              <p className="[word-break:break-word] font-['Lora:SemiBold'] font-semibold leading-[1.12] min-w-full relative shrink-0 text-[#233a36] text-[44px] w-[min-content]" data-node-id="5:3118">
+                Если что-то волнует — это уже достаточная причина обсудить
+              </p>
+              <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[1.65] min-w-full relative shrink-0 text-[#53635e] text-[16px] w-[min-content]" data-node-id="5:3119">
+                Не обязательно ждать заключения или “перерастания”. На первой встрече мы выслушаем вас и поможем отделить возрастную особенность от зоны, которой нужна поддержка.
+              </p>
+            </div>
+            <div className="[word-break:break-word] bg-[#f5f1e9] content-stretch flex gap-[12px] items-start overflow-clip p-[18px] relative rounded-[20px] shrink-0 w-full" data-node-id="5:3120" data-name="Примечание">
+              <p className="font-['Lora:Bold'] font-bold leading-[normal] relative shrink-0 text-[#d76f52] text-[24px] whitespace-nowrap" data-node-id="5:3121">
+                *
+              </p>
+              <p className="flex-[1_0_0] font-['Manrope:Regular'] font-normal leading-[1.5] min-w-px relative text-[#53635e] text-[12px]" data-node-id="5:3122">
+                Мы не ставим диагноз по переписке. Формат помощи определяется только после знакомства с ребёнком и семьёй.
+              </p>
+            </div>
+          </div>
+          <div className="content-start flex flex-[1_0_0] flex-wrap gap-[18px] items-start min-w-px overflow-clip relative" data-node-id="5:3123" data-name="Карточки запросов">
+            <div className="bg-[#f5f1e9] content-stretch flex flex-col gap-[16px] h-[210px] items-start overflow-clip p-[24px] relative rounded-[20px] shrink-0 w-[376px]" data-node-id="5:3124" data-name="Запрос семьи">
+              <div className="bg-[#f2c9b8] content-stretch flex items-center justify-center overflow-clip relative rounded-[999px] shrink-0 size-[48px]" data-node-id="5:3125" data-name="Иконка">
+                <div className="relative shrink-0 size-[22px]" data-node-id="5:3479" data-name="speech">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSpeech} />
+                </div>
+              </div>
+              <p className="[word-break:break-word] font-['Lora:SemiBold'] font-semibold leading-[normal] min-w-full relative shrink-0 text-[#233a36] text-[20px] w-[min-content]" data-node-id="5:3127">
+                Речь и коммуникация
+              </p>
+              <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[1.5] min-w-full relative shrink-0 text-[#53635e] text-[13px] w-[min-content]" data-node-id="5:3128">
+                Речь развивается медленнее, ребёнку сложно формулировать мысли или поддерживать диалог.
+              </p>
+            </div>
+            <div className="bg-[#f5f1e9] content-stretch flex flex-col gap-[16px] h-[210px] items-start overflow-clip p-[24px] relative rounded-[20px] shrink-0 w-[376px]" data-node-id="5:3129" data-name="Запрос семьи">
+              <div className="bg-[#dce6dd] content-stretch flex items-center justify-center overflow-clip relative rounded-[999px] shrink-0 size-[48px]" data-node-id="5:3130" data-name="Иконка">
+                <div className="relative shrink-0 size-[22px]" data-node-id="5:3482" data-name="puzzle">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgPuzzle} />
+                </div>
+              </div>
+              <p className="[word-break:break-word] font-['Lora:SemiBold'] font-semibold leading-[normal] min-w-full relative shrink-0 text-[#233a36] text-[20px] w-[min-content]" data-node-id="5:3132">
+                Внимание и обучение
+              </p>
+              <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[1.5] min-w-full relative shrink-0 text-[#53635e] text-[13px] w-[min-content]" data-node-id="5:3133">
+                Трудно сосредоточиться, следовать инструкции, осваивать чтение, письмо или счёт.
+              </p>
+            </div>
+            <div className="bg-[#f5f1e9] content-stretch flex flex-col gap-[16px] h-[210px] items-start overflow-clip p-[24px] relative rounded-[20px] shrink-0 w-[376px]" data-node-id="5:3134" data-name="Запрос семьи">
+              <div className="bg-[#f1d889] content-stretch flex items-center justify-center overflow-clip relative rounded-[999px] shrink-0 size-[48px]" data-node-id="5:3135" data-name="Иконка">
+                <div className="relative shrink-0 size-[22px]" data-node-id="5:3485" data-name="cloud-sun">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgCloudSun} />
+                </div>
+              </div>
+              <p className="[word-break:break-word] font-['Lora:SemiBold'] font-semibold leading-[normal] min-w-full relative shrink-0 text-[#233a36] text-[20px] w-[min-content]" data-node-id="5:3137">
+                Эмоции и поведение
+              </p>
+              <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[1.5] min-w-full relative shrink-0 text-[#53635e] text-[13px] w-[min-content]" data-node-id="5:3138">
+                Частые перегрузки, тревога, вспышки или сложности с адаптацией к детскому саду и школе.
+              </p>
+            </div>
+            <div className="bg-[#f5f1e9] content-stretch flex flex-col gap-[16px] h-[210px] items-start overflow-clip p-[24px] relative rounded-[20px] shrink-0 w-[376px]" data-node-id="5:3139" data-name="Запрос семьи">
+              <div className="bg-[#f2c9b8] content-stretch flex items-center justify-center overflow-clip relative rounded-[999px] shrink-0 size-[48px]" data-node-id="5:3140" data-name="Иконка">
+                <div className="relative shrink-0 size-[22px]" data-node-id="5:3488" data-name="hand-heart">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgHandHeart} />
+                </div>
+              </div>
+              <p className="[word-break:break-word] font-['Lora:SemiBold'] font-semibold leading-[normal] min-w-full relative shrink-0 text-[#233a36] text-[20px] w-[min-content]" data-node-id="5:3142">
+                Движение и ощущения
+              </p>
+              <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[1.5] min-w-full relative shrink-0 text-[#53635e] text-[13px] w-[min-content]" data-node-id="5:3143">
+                Неловкость, чувствительность к звукам и прикосновениям, трудности с бытовыми навыками.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div className="bg-[rgba(255,255,255,0)] h-0 relative shrink-0 w-full" data-node-id="5:3144" data-name="Конец раздела" />
+      </div>
+      <div className="bg-[#f5f1e9] content-stretch flex flex-col h-[870px] items-start overflow-clip relative shrink-0 w-[1440px]" data-node-id="5:3048" data-name="Первый экран">
+        <div className="content-stretch flex h-[92px] items-center justify-between overflow-clip px-[72px] relative shrink-0 w-full" data-node-id="5:3049" data-name="Навигация">
+          <div className="content-stretch flex gap-[12px] items-center overflow-clip relative shrink-0" data-node-id="5:3050" data-name="Логотип">
+            <div className="bg-[#f2c9b8] content-stretch flex items-center justify-center overflow-clip relative rounded-[999px] shrink-0 size-[42px]" data-node-id="5:3051" data-name="Знак">
+              <div className="relative shrink-0 size-[23px]" data-node-id="5:3467" data-name="sprout">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSprout} />
+              </div>
+            </div>
+            <div className="[word-break:break-word] content-stretch flex flex-col font-bold gap-px items-start leading-[normal] overflow-clip relative shrink-0 text-[#233a36] whitespace-nowrap" data-node-id="5:3053" data-name="Название">
+              <p className="font-['Lora:Bold'] relative shrink-0 text-[23px]" data-node-id="5:3054">
+                Берег
+              </p>
+              <p className="font-['Manrope:Bold'] opacity-72 relative shrink-0 text-[9px] uppercase" data-node-id="5:3055">
+                центр развития
+              </p>
+            </div>
+          </div>
+          <div className="[word-break:break-word] content-stretch flex font-['Manrope:SemiBold'] font-semibold gap-[28px] items-center leading-[normal] overflow-clip relative shrink-0 text-[#53635e] text-[14px] whitespace-nowrap" data-node-id="5:3056" data-name="Ссылки">
+            <p className="relative shrink-0" data-node-id="5:3057">
+              Направления
+            </p>
+            <p className="relative shrink-0" data-node-id="5:3058">
+              Как мы работаем
+            </p>
+            <p className="relative shrink-0" data-node-id="5:3059">
+              Специалисты
+            </p>
+            <p className="relative shrink-0" data-node-id="5:3060">
+              Отзывы
+            </p>
+            <p className="relative shrink-0" data-node-id="5:3061">
+              Контакты
+            </p>
+          </div>
+          <div className="content-stretch flex gap-[18px] items-center overflow-clip relative shrink-0" data-node-id="5:3062" data-name="Контактные действия">
+            <div className="[word-break:break-word] content-stretch flex flex-col gap-[2px] items-end leading-[normal] overflow-clip relative shrink-0 whitespace-nowrap" data-node-id="5:3063" data-name="Телефон">
+              <p className="font-['Manrope:ExtraBold'] font-extrabold relative shrink-0 text-[#233a36] text-[14px]" data-node-id="5:3064">
+                +7 (495) 128-44-19
+              </p>
+              <p className="font-['Manrope:Regular'] font-normal relative shrink-0 text-[#53635e] text-[11px]" data-node-id="5:3065">
+                ежедневно 9:00–20:00
+              </p>
+            </div>
+            <div className="bg-[#d76f52] border border-[#d76f52] border-solid content-stretch flex h-[54px] items-center justify-center overflow-clip px-[24px] relative rounded-[999px] shrink-0" data-node-id="5:3066" data-name="Кнопка">
+              <p className="[word-break:break-word] font-['Manrope:Bold'] font-bold leading-[normal] relative shrink-0 text-[15px] text-white whitespace-nowrap" data-node-id="5:3067">
+                Записаться
+              </p>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex gap-[60px] h-[778px] items-center overflow-clip pb-[64px] pt-[54px] px-[72px] relative shrink-0 w-full" data-node-id="5:3068" data-name="Главное предложение">
+          <div className="content-stretch flex flex-col gap-[28px] items-start overflow-clip relative shrink-0 w-[610px]" data-node-id="5:3069" data-name="Текст предложения">
+            <div className="content-stretch flex gap-[10px] items-center overflow-clip relative shrink-0" data-node-id="5:3070" data-name="Вводная метка">
+              <div className="relative shrink-0 size-[9px]" data-node-id="5:3071" data-name="Статус">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={img1} />
+              </div>
+              <p className="[word-break:break-word] font-['Manrope:ExtraBold'] font-extrabold leading-[normal] relative shrink-0 text-[#315a50] text-[13px] uppercase whitespace-nowrap" data-node-id="5:3072">
+                бережно · доказательно · вместе с семьёй
+              </p>
+            </div>
+            <p className="[word-break:break-word] font-['Lora:SemiBold'] font-semibold leading-[1.03] min-w-full relative shrink-0 text-[#233a36] text-[64px] w-[min-content]" data-node-id="5:3073">
+              Помогаем ребёнку увереннее познавать мир
+            </p>
+            <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[1.55] relative shrink-0 text-[#53635e] text-[20px] w-[560px]" data-node-id="5:3074">
+              Центр развития и нейрокоррекции «Берег» для детей от 2 до 12 лет. Разбираемся в причинах трудностей и составляем понятный маршрут поддержки без спешки и давления.
+            </p>
+            <div className="content-stretch flex gap-[12px] items-center overflow-clip relative shrink-0" data-node-id="5:3075" data-name="Действия">
+              <div className="bg-[#d76f52] border border-[#d76f52] border-solid content-stretch flex gap-[10px] h-[54px] items-center justify-center overflow-clip px-[24px] relative rounded-[999px] shrink-0" data-node-id="5:3076" data-name="Кнопка">
+                <p className="[word-break:break-word] font-['Manrope:Bold'] font-bold leading-[normal] relative shrink-0 text-[15px] text-white whitespace-nowrap" data-node-id="5:3077">
+                  Записаться на консультацию
+                </p>
+                <div className="relative shrink-0 size-[18px]" data-node-id="5:3470" data-name="arrow-right">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgArrowRight} />
+                </div>
+              </div>
+              <div className="bg-[rgba(255,255,255,0)] border border-[#d8d2c6] border-solid content-stretch flex h-[54px] items-center justify-center overflow-clip px-[24px] relative rounded-[999px] shrink-0" data-node-id="5:3079" data-name="Кнопка">
+                <p className="[word-break:break-word] font-['Manrope:Bold'] font-bold leading-[normal] relative shrink-0 text-[#233a36] text-[15px] whitespace-nowrap" data-node-id="5:3080">
+                  Задать вопрос
+                </p>
+              </div>
+            </div>
+            <div className="content-stretch flex gap-[8px] items-start overflow-clip relative shrink-0" data-node-id="5:3081" data-name="Возрастные группы">
+              <div className="bg-[#fffdf8] border border-[#d8d2c6] border-solid content-stretch flex items-start overflow-clip px-[14px] py-[8px] relative rounded-[999px] shrink-0" data-node-id="5:3082" data-name="Тег">
+                <p className="[word-break:break-word] font-['Manrope:Bold'] font-bold leading-[normal] relative shrink-0 text-[#53635e] text-[12px] whitespace-nowrap" data-node-id="5:3083">
+                  2–4 года
+                </p>
+              </div>
+              <div className="bg-[#fffdf8] border border-[#d8d2c6] border-solid content-stretch flex items-start overflow-clip px-[14px] py-[8px] relative rounded-[999px] shrink-0" data-node-id="5:3084" data-name="Тег">
+                <p className="[word-break:break-word] font-['Manrope:Bold'] font-bold leading-[normal] relative shrink-0 text-[#53635e] text-[12px] whitespace-nowrap" data-node-id="5:3085">
+                  5–7 лет
+                </p>
+              </div>
+              <div className="bg-[#fffdf8] border border-[#d8d2c6] border-solid content-stretch flex items-start overflow-clip px-[14px] py-[8px] relative rounded-[999px] shrink-0" data-node-id="5:3086" data-name="Тег">
+                <p className="[word-break:break-word] font-['Manrope:Bold'] font-bold leading-[normal] relative shrink-0 text-[#53635e] text-[12px] whitespace-nowrap" data-node-id="5:3087">
+                  8–12 лет
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="bg-[#dce6dd] content-stretch flex flex-[1_0_0] h-[650px] items-start min-w-px overflow-clip relative rounded-[48px]" data-node-id="5:3088" data-name="Фото и карточка">
+            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={img2} />
+            <div className="absolute right-[28px] size-[74px] top-[28px]" data-node-id="5:3090" data-name="Игровой акцент">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={img3} />
+            </div>
+            <div className="absolute right-[44px] size-[42px] top-[44px]" data-node-id="5:3473" data-name="sun">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSun} />
+            </div>
+            <div className="absolute bg-[#fffdf8] bottom-[24px] content-stretch flex gap-[16px] items-center left-[24px] overflow-clip p-[20px] rounded-[20px] shadow-[0px_14px_36px_-8px_rgba(35,58,54,0.09)] w-[450px]" data-node-id="5:3092" data-name="Карточка знакомства">
+              <div className="bg-[#f2c9b8] content-stretch flex items-center justify-center overflow-clip relative rounded-[999px] shrink-0 size-[46px]" data-node-id="5:3093" data-name="Знак консультации">
+                <div className="relative shrink-0 size-[23px]" data-node-id="5:3476" data-name="message-circle-heart">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgMessageCircleHeart} />
+                </div>
+              </div>
+              <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-[4px] items-start min-w-px overflow-clip relative" data-node-id="5:3095" data-name="Текст консультации">
+                <p className="font-['Manrope:ExtraBold'] font-extrabold leading-[normal] relative shrink-0 text-[#233a36] text-[15px] whitespace-nowrap" data-node-id="5:3096">
+                  Первая встреча — 60 минут
+                </p>
+                <p className="font-['Manrope:Regular'] font-normal leading-[1.45] min-w-full relative shrink-0 text-[#53635e] text-[12px] w-[min-content]" data-node-id="5:3097">
+                  Знакомимся, обсуждаем запрос и определяем, какой специалист нужен дальше.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="bg-[#315a50] content-stretch flex flex-col gap-[52px] items-start overflow-clip px-[72px] py-[104px] relative shrink-0 w-[1440px]" data-node-id="5:3145" data-name="Направления помощи">
+        <div className="content-stretch flex items-end justify-between overflow-clip relative shrink-0 w-full" data-node-id="5:3146" data-name="Заголовок и действие">
+          <div className="content-stretch flex flex-col gap-[16px] items-start overflow-clip relative shrink-0 w-[780px]" data-node-id="5:3147" data-name="Заголовок раздела">
+            <div className="content-stretch flex gap-[8px] items-center overflow-clip relative shrink-0" data-node-id="5:3148" data-name="Рубрика">
+              <div className="relative shrink-0 size-[8px]" data-node-id="5:3149" data-name="Маркер">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={img4} />
+              </div>
+              <p className="[word-break:break-word] font-['Manrope:ExtraBold'] font-extrabold leading-[normal] relative shrink-0 text-[13px] text-white uppercase whitespace-nowrap" data-node-id="5:3150">
+                Направления помощи
+              </p>
+            </div>
+            <p className="[word-break:break-word] font-['Lora:SemiBold'] font-semibold leading-[1.12] min-w-full relative shrink-0 text-[44px] text-white w-[min-content]" data-node-id="5:3151">
+              Подбираем поддержку под задачу, а не ребёнка под программу
+            </p>
+            <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[1.65] min-w-full opacity-86 relative shrink-0 text-[16px] text-white w-[min-content]" data-node-id="5:3152">
+              Специалисты объединяют наблюдения и регулярно уточняют маршрут — индивидуальный или групповой.
+            </p>
+          </div>
+          <div className="bg-[#fffdf8] border border-[#fffdf8] border-solid content-stretch flex gap-[10px] h-[54px] items-center justify-center overflow-clip px-[24px] relative rounded-[999px] shrink-0" data-node-id="5:3153" data-name="Кнопка">
+            <p className="[word-break:break-word] font-['Manrope:Bold'] font-bold leading-[normal] relative shrink-0 text-[#233a36] text-[15px] whitespace-nowrap" data-node-id="5:3154">
+              Помочь выбрать направление
+            </p>
+            <div className="relative shrink-0 size-[18px]" data-node-id="5:3491" data-name="arrow-up-right">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgArrowUpRight} />
+            </div>
+          </div>
+        </div>
+        <div className="content-start flex flex-wrap gap-[18px] items-start overflow-clip relative shrink-0 w-full" data-node-id="5:3156" data-name="Список направлений">
+          <div className="bg-[#fffdf8] content-stretch flex flex-col gap-[18px] h-[256px] items-start overflow-clip p-[28px] relative rounded-[20px] shrink-0 w-[420px]" data-node-id="5:3157" data-name="Направление">
+            <div className="content-stretch flex items-center justify-between overflow-clip relative shrink-0 w-full" data-node-id="5:3158" data-name="Иконка и стрелка">
+              <div className="bg-[#f2c9b8] content-stretch flex items-center justify-center overflow-clip relative rounded-[999px] shrink-0 size-[50px]" data-node-id="5:3159" data-name="Символ направления">
+                <div className="relative shrink-0 size-[24px]" data-node-id="5:3494" data-name="brain">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgBrain} />
+                </div>
+              </div>
+              <div className="relative shrink-0 size-[20px]" data-node-id="5:3497" data-name="arrow-up-right">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgArrowUpRight1} />
+              </div>
+            </div>
+            <p className="[word-break:break-word] font-['Lora:SemiBold'] font-semibold leading-[1.18] relative shrink-0 text-[#233a36] text-[22px] w-full" data-node-id="5:3162">
+              Нейропсихологическая коррекция
+            </p>
+            <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[1.5] relative shrink-0 text-[#53635e] text-[13px] w-full" data-node-id="5:3163">
+              Игровые занятия для развития внимания, саморегуляции, памяти и пространственных представлений.
+            </p>
+            <p className="[word-break:break-word] font-['Manrope:ExtraBold'] font-extrabold leading-[normal] relative shrink-0 text-[#b9533a] text-[11px] uppercase w-full" data-node-id="5:3164">
+              4–12 лет · 50 минут
+            </p>
+          </div>
+          <div className="bg-[#fffdf8] content-stretch flex flex-col gap-[18px] h-[256px] items-start overflow-clip p-[28px] relative rounded-[20px] shrink-0 w-[420px]" data-node-id="5:3165" data-name="Направление">
+            <div className="content-stretch flex items-center justify-between overflow-clip relative shrink-0 w-full" data-node-id="5:3166" data-name="Иконка и стрелка">
+              <div className="bg-[#f2c9b8] content-stretch flex items-center justify-center overflow-clip relative rounded-[999px] shrink-0 size-[50px]" data-node-id="5:3167" data-name="Символ направления">
+                <div className="relative shrink-0 size-[24px]" data-node-id="5:3500" data-name="messages-square">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgMessagesSquare} />
+                </div>
+              </div>
+              <div className="relative shrink-0 size-[20px]" data-node-id="5:3503" data-name="arrow-up-right">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgArrowUpRight1} />
+              </div>
+            </div>
+            <p className="[word-break:break-word] font-['Lora:SemiBold'] font-semibold leading-[1.18] relative shrink-0 text-[#233a36] text-[22px] w-full" data-node-id="5:3170">
+              Логопед и дефектолог
+            </p>
+            <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[1.5] relative shrink-0 text-[#53635e] text-[13px] w-full" data-node-id="5:3171">
+              Работа над речью, пониманием обращённой речи, звукопроизношением и учебными навыками.
+            </p>
+            <p className="[word-break:break-word] font-['Manrope:ExtraBold'] font-extrabold leading-[normal] relative shrink-0 text-[#b9533a] text-[11px] uppercase w-full" data-node-id="5:3172">
+              2–12 лет · 45 минут
+            </p>
+          </div>
+          <div className="bg-[#fffdf8] content-stretch flex flex-col gap-[18px] h-[256px] items-start overflow-clip p-[28px] relative rounded-[20px] shrink-0 w-[420px]" data-node-id="5:3173" data-name="Направление">
+            <div className="content-stretch flex items-center justify-between overflow-clip relative shrink-0 w-full" data-node-id="5:3174" data-name="Иконка и стрелка">
+              <div className="bg-[#f2c9b8] content-stretch flex items-center justify-center overflow-clip relative rounded-[999px] shrink-0 size-[50px]" data-node-id="5:3175" data-name="Символ направления">
+                <div className="relative shrink-0 size-[24px]" data-node-id="5:3506" data-name="person-standing">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgPersonStanding} />
+                </div>
+              </div>
+              <div className="relative shrink-0 size-[20px]" data-node-id="5:3509" data-name="arrow-up-right">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgArrowUpRight1} />
+              </div>
+            </div>
+            <p className="[word-break:break-word] font-['Lora:SemiBold'] font-semibold leading-[1.18] relative shrink-0 text-[#233a36] text-[22px] w-full" data-node-id="5:3178">
+              Сенсомоторное развитие
+            </p>
+            <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[1.5] relative shrink-0 text-[#53635e] text-[13px] w-full" data-node-id="5:3179">
+              Движение, координация и телесные игры, которые помогают ребёнку лучше чувствовать своё тело.
+            </p>
+            <p className="[word-break:break-word] font-['Manrope:ExtraBold'] font-extrabold leading-[normal] relative shrink-0 text-[#b9533a] text-[11px] uppercase w-full" data-node-id="5:3180">
+              3–10 лет · 50 минут
+            </p>
+          </div>
+          <div className="bg-[#fffdf8] content-stretch flex flex-col gap-[18px] h-[256px] items-start overflow-clip p-[28px] relative rounded-[20px] shrink-0 w-[420px]" data-node-id="5:3181" data-name="Направление">
+            <div className="content-stretch flex items-center justify-between overflow-clip relative shrink-0 w-full" data-node-id="5:3182" data-name="Иконка и стрелка">
+              <div className="bg-[#f2c9b8] content-stretch flex items-center justify-center overflow-clip relative rounded-[999px] shrink-0 size-[50px]" data-node-id="5:3183" data-name="Символ направления">
+                <div className="relative shrink-0 size-[24px]" data-node-id="5:3512" data-name="heart-handshake">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgHeartHandshake} />
+                </div>
+              </div>
+              <div className="relative shrink-0 size-[20px]" data-node-id="5:3515" data-name="arrow-up-right">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgArrowUpRight1} />
+              </div>
+            </div>
+            <p className="[word-break:break-word] font-['Lora:SemiBold'] font-semibold leading-[1.18] relative shrink-0 text-[#233a36] text-[22px] w-full" data-node-id="5:3186">
+              Детский психолог
+            </p>
+            <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[1.5] relative shrink-0 text-[#53635e] text-[13px] w-full" data-node-id="5:3187">
+              Поддержка при тревоге, сложностях адаптации, самооценки и выражения чувств безопасным способом.
+            </p>
+            <p className="[word-break:break-word] font-['Manrope:ExtraBold'] font-extrabold leading-[normal] relative shrink-0 text-[#b9533a] text-[11px] uppercase w-full" data-node-id="5:3188">
+              4–12 лет · 50 минут
+            </p>
+          </div>
+          <div className="bg-[#fffdf8] content-stretch flex flex-col gap-[18px] h-[256px] items-start overflow-clip p-[28px] relative rounded-[20px] shrink-0 w-[420px]" data-node-id="5:3189" data-name="Направление">
+            <div className="content-stretch flex items-center justify-between overflow-clip relative shrink-0 w-full" data-node-id="5:3190" data-name="Иконка и стрелка">
+              <div className="bg-[#f2c9b8] content-stretch flex items-center justify-center overflow-clip relative rounded-[999px] shrink-0 size-[50px]" data-node-id="5:3191" data-name="Символ направления">
+                <div className="relative shrink-0 size-[24px]" data-node-id="5:3518" data-name="graduation-cap">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGraduationCap} />
+                </div>
+              </div>
+              <div className="relative shrink-0 size-[20px]" data-node-id="5:3521" data-name="arrow-up-right">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgArrowUpRight1} />
+              </div>
+            </div>
+            <p className="[word-break:break-word] font-['Lora:SemiBold'] font-semibold leading-[1.18] relative shrink-0 text-[#233a36] text-[22px] w-full" data-node-id="5:3194">
+              Подготовка к школе
+            </p>
+            <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[1.5] relative shrink-0 text-[#53635e] text-[13px] w-full" data-node-id="5:3195">
+              Развиваем предпосылки чтения, письма и счёта, а также умение слышать инструкцию и планировать.
+            </p>
+            <p className="[word-break:break-word] font-['Manrope:ExtraBold'] font-extrabold leading-[normal] relative shrink-0 text-[#b9533a] text-[11px] uppercase w-full" data-node-id="5:3196">
+              5–7 лет · 50 минут
+            </p>
+          </div>
+          <div className="bg-[#fffdf8] content-stretch flex flex-col gap-[18px] h-[256px] items-start overflow-clip p-[28px] relative rounded-[20px] shrink-0 w-[420px]" data-node-id="5:3197" data-name="Направление">
+            <div className="content-stretch flex items-center justify-between overflow-clip relative shrink-0 w-full" data-node-id="5:3198" data-name="Иконка и стрелка">
+              <div className="bg-[#f2c9b8] content-stretch flex items-center justify-center overflow-clip relative rounded-[999px] shrink-0 size-[50px]" data-node-id="5:3199" data-name="Символ направления">
+                <div className="relative shrink-0 size-[24px]" data-node-id="5:3524" data-name="users">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgUsers} />
+                </div>
+              </div>
+              <div className="relative shrink-0 size-[20px]" data-node-id="5:3527" data-name="arrow-up-right">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgArrowUpRight1} />
+              </div>
+            </div>
+            <p className="[word-break:break-word] font-['Lora:SemiBold'] font-semibold leading-[1.18] relative shrink-0 text-[#233a36] text-[22px] w-full" data-node-id="5:3202">
+              Группы общения
+            </p>
+            <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[1.5] relative shrink-0 text-[#53635e] text-[13px] w-full" data-node-id="5:3203">
+              Небольшие группы для практики диалога, совместной игры, гибкости и социальных правил.
+            </p>
+            <p className="[word-break:break-word] font-['Manrope:ExtraBold'] font-extrabold leading-[normal] relative shrink-0 text-[#b9533a] text-[11px] uppercase w-full" data-node-id="5:3204">
+              4–9 лет · 60 минут
+            </p>
+          </div>
+        </div>
+      </div>
+      <div className="bg-[#f5f1e9] content-stretch flex flex-col gap-[58px] items-start overflow-clip px-[72px] py-[104px] relative shrink-0 w-[1440px]" data-node-id="5:3205" data-name="Подход и этапы">
+        <div className="content-stretch flex flex-col gap-[16px] items-start overflow-clip relative shrink-0 w-[780px]" data-node-id="5:3206" data-name="Заголовок раздела">
+          <div className="content-stretch flex gap-[8px] items-center overflow-clip relative shrink-0" data-node-id="5:3207" data-name="Рубрика">
+            <div className="relative shrink-0 size-[8px]" data-node-id="5:3208" data-name="Маркер">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={img} />
+            </div>
+            <p className="[word-break:break-word] font-['Manrope:ExtraBold'] font-extrabold leading-[normal] relative shrink-0 text-[#53635e] text-[13px] uppercase whitespace-nowrap" data-node-id="5:3209">
+              Как мы работаем
+            </p>
+          </div>
+          <p className="[word-break:break-word] font-['Lora:SemiBold'] font-semibold leading-[1.12] min-w-full relative shrink-0 text-[#233a36] text-[44px] w-[min-content]" data-node-id="5:3210">
+            Путь, в котором родителям всё понятно
+          </p>
+          <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[1.65] min-w-full relative shrink-0 text-[#53635e] text-[16px] w-[min-content]" data-node-id="5:3211">
+            Без непрозрачных назначений и одинаковых схем: каждый этап обсуждаем и связываем с повседневными задачами ребёнка.
+          </p>
+        </div>
+        <div className="content-stretch flex gap-[70px] items-center overflow-clip relative shrink-0 w-full" data-node-id="5:3212" data-name="Этапы и фотография">
+          <div className="bg-[#e9e2d4] content-stretch flex h-[600px] items-start overflow-clip relative rounded-[32px] shrink-0 w-[510px]" data-node-id="5:3213" data-name="Фотография подхода">
+            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={img5} />
+            <div className="absolute bg-[#fffdf8] bottom-[22px] content-stretch flex gap-[12px] items-center left-[22px] overflow-clip p-[16px] rounded-[20px] shadow-[0px_14px_36px_-8px_rgba(35,58,54,0.09)] w-[350px]" data-node-id="5:3215" data-name="Подпись к фотографии">
+              <div className="relative shrink-0 size-[10px]" data-node-id="5:3216" data-name="Маркер">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={img6} />
+              </div>
+              <p className="[word-break:break-word] flex-[1_0_0] font-['Manrope:Regular'] font-normal leading-[1.45] min-w-px relative text-[#233a36] text-[12px]" data-node-id="5:3217">
+                Опираемся на игру, контакт и интерес ребёнка
+              </p>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-[1_0_0] flex-col items-start min-w-px overflow-clip relative" data-node-id="5:3218" data-name="Шаги работы">
+            <div className="border-[#d8d2c6] border-b border-solid content-stretch flex gap-[22px] items-start overflow-clip py-[24px] relative shrink-0 w-full" data-node-id="5:3219" data-name="Этап работы">
+              <div className="bg-[#d76f52] border border-[#d76f52] border-solid content-stretch flex items-center justify-center overflow-clip relative rounded-[999px] shrink-0 size-[48px]" data-node-id="5:3220" data-name="Номер этапа">
+                <p className="[word-break:break-word] font-['Manrope:ExtraBold'] font-extrabold leading-[normal] relative shrink-0 text-[12px] text-white whitespace-nowrap" data-node-id="5:3221">
+                  01
+                </p>
+              </div>
+              <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-[8px] items-start min-w-px overflow-clip relative" data-node-id="5:3222" data-name="Описание этапа">
+                <p className="font-['Lora:SemiBold'] font-semibold leading-[normal] relative shrink-0 text-[#233a36] text-[23px] w-full" data-node-id="5:3223">
+                  Знакомство с семьёй
+                </p>
+                <p className="font-['Manrope:Regular'] font-normal leading-[1.55] relative shrink-0 text-[#53635e] text-[14px] w-full" data-node-id="5:3224">
+                  Обсуждаем, что волнует, собираем историю развития и договариваемся о целях диагностики.
+                </p>
+              </div>
+              <div className="relative shrink-0 size-[20px]" data-node-id="5:3530" data-name="arrow-right">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgArrowRight1} />
+              </div>
+            </div>
+            <div className="border-[#d8d2c6] border-b border-solid content-stretch flex gap-[22px] items-start overflow-clip py-[24px] relative shrink-0 w-full" data-node-id="5:3226" data-name="Этап работы">
+              <div className="bg-[#fffdf8] border border-[#d8d2c6] border-solid content-stretch flex items-center justify-center overflow-clip relative rounded-[999px] shrink-0 size-[48px]" data-node-id="5:3227" data-name="Номер этапа">
+                <p className="[word-break:break-word] font-['Manrope:ExtraBold'] font-extrabold leading-[normal] relative shrink-0 text-[#53635e] text-[12px] whitespace-nowrap" data-node-id="5:3228">
+                  02
+                </p>
+              </div>
+              <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-[8px] items-start min-w-px overflow-clip relative" data-node-id="5:3229" data-name="Описание этапа">
+                <p className="font-['Lora:SemiBold'] font-semibold leading-[normal] relative shrink-0 text-[#233a36] text-[23px] w-full" data-node-id="5:3230">
+                  Бережная диагностика
+                </p>
+                <p className="font-['Manrope:Regular'] font-normal leading-[1.55] relative shrink-0 text-[#53635e] text-[14px] w-full" data-node-id="5:3231">
+                  Ребёнок играет и выполняет задания, а специалист наблюдает за сильными сторонами и трудностями.
+                </p>
+              </div>
+              <div className="relative shrink-0 size-[20px]" data-node-id="5:3533" data-name="arrow-right">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgArrowRight1} />
+              </div>
+            </div>
+            <div className="border-[#d8d2c6] border-b border-solid content-stretch flex gap-[22px] items-start overflow-clip py-[24px] relative shrink-0 w-full" data-node-id="5:3233" data-name="Этап работы">
+              <div className="bg-[#fffdf8] border border-[#d8d2c6] border-solid content-stretch flex items-center justify-center overflow-clip relative rounded-[999px] shrink-0 size-[48px]" data-node-id="5:3234" data-name="Номер этапа">
+                <p className="[word-break:break-word] font-['Manrope:ExtraBold'] font-extrabold leading-[normal] relative shrink-0 text-[#53635e] text-[12px] whitespace-nowrap" data-node-id="5:3235">
+                  03
+                </p>
+              </div>
+              <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-[8px] items-start min-w-px overflow-clip relative" data-node-id="5:3236" data-name="Описание этапа">
+                <p className="font-['Lora:SemiBold'] font-semibold leading-[normal] relative shrink-0 text-[#233a36] text-[23px] w-full" data-node-id="5:3237">
+                  Понятный маршрут
+                </p>
+                <p className="font-['Manrope:Regular'] font-normal leading-[1.55] relative shrink-0 text-[#53635e] text-[14px] w-full" data-node-id="5:3238">
+                  На встрече с родителями объясняем результаты простым языком и предлагаем варианты поддержки.
+                </p>
+              </div>
+              <div className="relative shrink-0 size-[20px]" data-node-id="5:3536" data-name="arrow-right">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgArrowRight1} />
+              </div>
+            </div>
+            <div className="border-0 border-[#d8d2c6] border-solid content-stretch flex gap-[22px] items-start overflow-clip py-[24px] relative shrink-0 w-full" data-node-id="5:3240" data-name="Этап работы">
+              <div className="bg-[#fffdf8] border border-[#d8d2c6] border-solid content-stretch flex items-center justify-center overflow-clip relative rounded-[999px] shrink-0 size-[48px]" data-node-id="5:3241" data-name="Номер этапа">
+                <p className="[word-break:break-word] font-['Manrope:ExtraBold'] font-extrabold leading-[normal] relative shrink-0 text-[#53635e] text-[12px] whitespace-nowrap" data-node-id="5:3242">
+                  04
+                </p>
+              </div>
+              <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-[8px] items-start min-w-px overflow-clip relative" data-node-id="5:3243" data-name="Описание этапа">
+                <p className="font-['Lora:SemiBold'] font-semibold leading-[normal] relative shrink-0 text-[#233a36] text-[23px] w-full" data-node-id="5:3244">
+                  Занятия и обратная связь
+                </p>
+                <p className="font-['Manrope:Regular'] font-normal leading-[1.55] relative shrink-0 text-[#53635e] text-[14px] w-full" data-node-id="5:3245">
+                  Работаем в комфортном темпе, отмечаем динамику и раз в 8–12 недель уточняем план вместе с семьёй.
+                </p>
+              </div>
+              <div className="relative shrink-0 size-[20px]" data-node-id="5:3539" data-name="arrow-right">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgArrowRight1} />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="bg-[#e9e2d4] content-stretch flex gap-[72px] items-center overflow-clip px-[72px] py-[104px] relative shrink-0 w-[1440px]" data-node-id="5:3247" data-name="Преимущества центра">
+        <div className="content-stretch flex flex-col gap-[38px] items-start overflow-clip relative shrink-0 w-[570px]" data-node-id="5:3248" data-name="Содержание преимуществ">
+          <div className="content-stretch flex flex-col gap-[16px] items-start overflow-clip relative shrink-0 w-[570px]" data-node-id="5:3249" data-name="Заголовок раздела">
+            <div className="content-stretch flex gap-[8px] items-center overflow-clip relative shrink-0" data-node-id="5:3250" data-name="Рубрика">
+              <div className="relative shrink-0 size-[8px]" data-node-id="5:3251" data-name="Маркер">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={img} />
+              </div>
+              <p className="[word-break:break-word] font-['Manrope:ExtraBold'] font-extrabold leading-[normal] relative shrink-0 text-[#53635e] text-[13px] uppercase whitespace-nowrap" data-node-id="5:3252">
+                Почему «Берег»
+              </p>
+            </div>
+            <p className="[word-break:break-word] font-['Lora:SemiBold'] font-semibold leading-[1.12] min-w-full relative shrink-0 text-[#233a36] text-[44px] w-[min-content]" data-node-id="5:3253">
+              Профессиональная помощь остаётся человечной
+            </p>
+            <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[1.65] min-w-full relative shrink-0 text-[#53635e] text-[16px] w-[min-content]" data-node-id="5:3254">
+              Мы создаём спокойную среду, где можно пробовать, ошибаться и постепенно осваивать новое.
+            </p>
+          </div>
+          <div className="content-stretch flex flex-col gap-[16px] items-start overflow-clip relative shrink-0 w-full" data-node-id="5:3255" data-name="Список преимуществ">
+            <div className="bg-[#fffdf8] content-stretch flex gap-[16px] items-center overflow-clip p-[18px] relative rounded-[20px] shrink-0 w-full" data-node-id="5:3256" data-name="Преимущество">
+              <div className="bg-[#dce6dd] content-stretch flex items-center justify-center overflow-clip relative rounded-[999px] shrink-0 size-[46px]" data-node-id="5:3257" data-name="Иконка преимущества">
+                <div className="relative shrink-0 size-[22px]" data-node-id="5:3542" data-name="users-round">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgUsersRound} />
+                </div>
+              </div>
+              <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-[4px] items-start min-w-px overflow-clip relative" data-node-id="5:3259" data-name="Текст преимущества">
+                <p className="font-['Manrope:ExtraBold'] font-extrabold leading-[normal] relative shrink-0 text-[#233a36] text-[15px] whitespace-nowrap" data-node-id="5:3260">
+                  Командный взгляд
+                </p>
+                <p className="font-['Manrope:Regular'] font-normal leading-[1.5] min-w-full relative shrink-0 text-[#53635e] text-[12px] w-[min-content]" data-node-id="5:3261">
+                  Нейропсихолог, логопед и психолог сверяют наблюдения, когда это полезно для запроса.
+                </p>
+              </div>
+            </div>
+            <div className="bg-[#fffdf8] content-stretch flex gap-[16px] items-center overflow-clip p-[18px] relative rounded-[20px] shrink-0 w-full" data-node-id="5:3262" data-name="Преимущество">
+              <div className="bg-[#dce6dd] content-stretch flex items-center justify-center overflow-clip relative rounded-[999px] shrink-0 size-[46px]" data-node-id="5:3263" data-name="Иконка преимущества">
+                <div className="relative shrink-0 size-[22px]" data-node-id="5:3545" data-name="route">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgRoute} />
+                </div>
+              </div>
+              <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-[4px] items-start min-w-px overflow-clip relative" data-node-id="5:3265" data-name="Текст преимущества">
+                <p className="font-['Manrope:ExtraBold'] font-extrabold leading-[normal] relative shrink-0 text-[#233a36] text-[15px] whitespace-nowrap" data-node-id="5:3266">
+                  Прозрачный план
+                </p>
+                <p className="font-['Manrope:Regular'] font-normal leading-[1.5] min-w-full relative shrink-0 text-[#53635e] text-[12px] w-[min-content]" data-node-id="5:3267">
+                  Родители понимают цель каждого этапа и получают посильные идеи для жизни дома.
+                </p>
+              </div>
+            </div>
+            <div className="bg-[#fffdf8] content-stretch flex gap-[16px] items-center overflow-clip p-[18px] relative rounded-[20px] shrink-0 w-full" data-node-id="5:3268" data-name="Преимущество">
+              <div className="bg-[#dce6dd] content-stretch flex items-center justify-center overflow-clip relative rounded-[999px] shrink-0 size-[46px]" data-node-id="5:3269" data-name="Иконка преимущества">
+                <div className="relative shrink-0 size-[22px]" data-node-id="5:3548" data-name="shield-check">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgShieldCheck} />
+                </div>
+              </div>
+              <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-[4px] items-start min-w-px overflow-clip relative" data-node-id="5:3271" data-name="Текст преимущества">
+                <p className="font-['Manrope:ExtraBold'] font-extrabold leading-[normal] relative shrink-0 text-[#233a36] text-[15px] whitespace-nowrap" data-node-id="5:3272">
+                  Уважение к границам
+                </p>
+                <p className="font-['Manrope:Regular'] font-normal leading-[1.5] min-w-full relative shrink-0 text-[#53635e] text-[12px] w-[min-content]" data-node-id="5:3273">
+                  Не заставляем “через не хочу” и ищем формат, в котором ребёнку безопасно включаться.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-[1_0_0] gap-[16px] h-[590px] items-start min-w-px overflow-clip relative" data-node-id="5:3274" data-name="Фотографии пространства">
+          <div className="flex-[1_0_0] h-full min-w-px relative rounded-[32px]" data-node-id="5:3275" data-name="Игровая комната">
+            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[32px] size-full" src={img7} />
+          </div>
+          <div className="content-stretch flex flex-col gap-[16px] h-full items-start overflow-clip relative shrink-0 w-[230px]" data-node-id="5:3276" data-name="Малые фотографии">
+            <div className="flex-[1_0_0] min-h-px relative rounded-[32px] w-full" data-node-id="5:3277" data-name="Материалы">
+              <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[32px] size-full" src={img8} />
+            </div>
+            <div className="[word-break:break-word] bg-[#d76f52] content-stretch flex flex-col gap-[12px] h-[205px] items-start overflow-clip p-[24px] relative rounded-[32px] shrink-0 text-white w-full" data-node-id="5:3278" data-name="Цитата команды">
+              <p className="font-['Lora:Bold'] font-bold leading-[normal] relative shrink-0 text-[34px] whitespace-nowrap" data-node-id="5:3279">
+                “
+              </p>
+              <p className="font-['Lora:SemiBold'] font-semibold leading-[1.3] min-w-full relative shrink-0 text-[18px] w-[min-content]" data-node-id="5:3280">
+                Сначала контакт. Затем — новое умение.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="bg-[#fffdf8] content-stretch flex flex-col gap-[50px] items-start overflow-clip px-[72px] py-[104px] relative shrink-0 w-[1440px]" data-node-id="5:3281" data-name="Специалисты">
+        <div className="content-stretch flex items-end justify-between overflow-clip relative shrink-0 w-full" data-node-id="5:3282" data-name="Заголовок специалистов">
+          <div className="content-stretch flex flex-col gap-[16px] items-start overflow-clip relative shrink-0 w-[760px]" data-node-id="5:3283" data-name="Заголовок раздела">
+            <div className="content-stretch flex gap-[8px] items-center overflow-clip relative shrink-0" data-node-id="5:3284" data-name="Рубрика">
+              <div className="relative shrink-0 size-[8px]" data-node-id="5:3285" data-name="Маркер">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={img} />
+              </div>
+              <p className="[word-break:break-word] font-['Manrope:ExtraBold'] font-extrabold leading-[normal] relative shrink-0 text-[#53635e] text-[13px] uppercase whitespace-nowrap" data-node-id="5:3286">
+                Команда
+              </p>
+            </div>
+            <p className="[word-break:break-word] font-['Lora:SemiBold'] font-semibold leading-[1.12] min-w-full relative shrink-0 text-[#233a36] text-[44px] w-[min-content]" data-node-id="5:3287">
+              Специалисты, которые видят за задачей ребёнка
+            </p>
+            <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[1.65] min-w-full relative shrink-0 text-[#53635e] text-[16px] w-[min-content]" data-node-id="5:3288">
+              Профильное образование, регулярные супервизии и уважительный язык общения с семьёй.
+            </p>
+          </div>
+          <div className="bg-[rgba(255,255,255,0)] border border-[#d8d2c6] border-solid content-stretch flex h-[54px] items-center justify-center overflow-clip px-[24px] relative rounded-[999px] shrink-0" data-node-id="5:3289" data-name="Кнопка">
+            <p className="[word-break:break-word] font-['Manrope:Bold'] font-bold leading-[normal] relative shrink-0 text-[#233a36] text-[15px] whitespace-nowrap" data-node-id="5:3290">
+              Познакомиться со всей командой
+            </p>
+          </div>
+        </div>
+        <div className="content-stretch flex gap-[18px] items-start overflow-clip relative shrink-0 w-full" data-node-id="5:3291" data-name="Карточки специалистов">
+          <div className="content-stretch flex flex-[1_0_0] flex-col gap-[18px] items-start min-w-px overflow-clip relative" data-node-id="5:3292" data-name="Специалист">
+            <div className="h-[360px] relative rounded-[32px] shrink-0 w-full" data-node-id="5:3293" data-name="Портрет">
+              <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[32px] size-full" src={img9} />
+            </div>
+            <div className="[word-break:break-word] content-stretch flex flex-col gap-[7px] items-start leading-[normal] overflow-clip px-[4px] relative shrink-0 w-full" data-node-id="5:3294" data-name="Информация">
+              <p className="font-['Lora:SemiBold'] font-semibold relative shrink-0 text-[#233a36] text-[24px] w-full" data-node-id="5:3295">
+                Анна Лебедева
+              </p>
+              <p className="font-['Manrope:Bold'] font-bold relative shrink-0 text-[#b9533a] text-[14px] w-full" data-node-id="5:3296">
+                Ведущий нейропсихолог
+              </p>
+              <div className="content-stretch flex font-['Manrope:Regular'] font-normal items-start justify-between overflow-clip relative shrink-0 text-[#53635e] text-[12px] w-full whitespace-nowrap" data-node-id="5:3297" data-name="Опыт и специализация">
+                <p className="relative shrink-0" data-node-id="5:3298">
+                  12 лет практики
+                </p>
+                <p className="relative shrink-0" data-node-id="5:3299">
+                  саморегуляция · внимание
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-[1_0_0] flex-col gap-[18px] items-start min-w-px overflow-clip relative" data-node-id="5:3300" data-name="Специалист">
+            <div className="h-[360px] relative rounded-[32px] shrink-0 w-full" data-node-id="5:3301" data-name="Портрет">
+              <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[32px] size-full" src={img10} />
+            </div>
+            <div className="[word-break:break-word] content-stretch flex flex-col gap-[7px] items-start leading-[normal] overflow-clip px-[4px] relative shrink-0 w-full" data-node-id="5:3302" data-name="Информация">
+              <p className="font-['Lora:SemiBold'] font-semibold relative shrink-0 text-[#233a36] text-[24px] w-full" data-node-id="5:3303">
+                Михаил Орлов
+              </p>
+              <p className="font-['Manrope:Bold'] font-bold relative shrink-0 text-[#b9533a] text-[14px] w-full" data-node-id="5:3304">
+                Логопед-дефектолог
+              </p>
+              <div className="content-stretch flex font-['Manrope:Regular'] font-normal items-start justify-between overflow-clip relative shrink-0 text-[#53635e] text-[12px] w-full whitespace-nowrap" data-node-id="5:3305" data-name="Опыт и специализация">
+                <p className="relative shrink-0" data-node-id="5:3306">
+                  9 лет практики
+                </p>
+                <p className="relative shrink-0" data-node-id="5:3307">
+                  речь · коммуникация
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-[1_0_0] flex-col gap-[18px] items-start min-w-px overflow-clip relative" data-node-id="5:3308" data-name="Специалист">
+            <div className="h-[360px] relative rounded-[32px] shrink-0 w-full" data-node-id="5:3309" data-name="Портрет">
+              <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[32px] size-full" src={img11} />
+            </div>
+            <div className="[word-break:break-word] content-stretch flex flex-col gap-[7px] items-start leading-[normal] overflow-clip px-[4px] relative shrink-0 w-full" data-node-id="5:3310" data-name="Информация">
+              <p className="font-['Lora:SemiBold'] font-semibold relative shrink-0 text-[#233a36] text-[24px] w-full" data-node-id="5:3311">
+                Елена Волкова
+              </p>
+              <p className="font-['Manrope:Bold'] font-bold relative shrink-0 text-[#b9533a] text-[14px] w-full" data-node-id="5:3312">
+                Детский психолог
+              </p>
+              <div className="content-stretch flex font-['Manrope:Regular'] font-normal items-start justify-between overflow-clip relative shrink-0 text-[#53635e] text-[12px] w-full whitespace-nowrap" data-node-id="5:3313" data-name="Опыт и специализация">
+                <p className="relative shrink-0" data-node-id="5:3314">
+                  11 лет практики
+                </p>
+                <p className="relative shrink-0" data-node-id="5:3315">
+                  эмоции · адаптация
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="bg-[#f5f1e9] content-stretch flex flex-col gap-[46px] items-start overflow-clip px-[72px] py-[104px] relative shrink-0 w-[1440px]" data-node-id="5:3316" data-name="Отзывы родителей">
+        <div className="content-stretch flex items-end justify-between overflow-clip relative shrink-0 w-full" data-node-id="5:3317" data-name="Заголовок отзывов">
+          <div className="content-stretch flex flex-col gap-[16px] items-start overflow-clip relative shrink-0 w-[720px]" data-node-id="5:3318" data-name="Заголовок раздела">
+            <div className="content-stretch flex gap-[8px] items-center overflow-clip relative shrink-0" data-node-id="5:3319" data-name="Рубрика">
+              <div className="relative shrink-0 size-[8px]" data-node-id="5:3320" data-name="Маркер">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={img} />
+              </div>
+              <p className="[word-break:break-word] font-['Manrope:ExtraBold'] font-extrabold leading-[normal] relative shrink-0 text-[#53635e] text-[13px] uppercase whitespace-nowrap" data-node-id="5:3321">
+                Отзывы родителей
+              </p>
+            </div>
+            <p className="[word-break:break-word] font-['Lora:SemiBold'] font-semibold leading-[1.12] min-w-full relative shrink-0 text-[#233a36] text-[44px] w-[min-content]" data-node-id="5:3322">
+              Самое ценное — чувство опоры
+            </p>
+          </div>
+          <div className="bg-[#fffdf8] content-stretch flex gap-[10px] items-center overflow-clip px-[18px] py-[12px] relative rounded-[999px] shrink-0" data-node-id="5:3323" data-name="Рейтинг">
+            <div className="relative shrink-0 size-[19px]" data-node-id="5:3551" data-name="star">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgStar} />
+            </div>
+            <p className="[word-break:break-word] font-['Manrope:ExtraBold'] font-extrabold leading-[normal] relative shrink-0 text-[#233a36] text-[14px] whitespace-nowrap" data-node-id="5:3325">
+              4,9 из 5
+            </p>
+            <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[normal] relative shrink-0 text-[#53635e] text-[12px] whitespace-nowrap" data-node-id="5:3326">
+              по 86 отзывам
+            </p>
+          </div>
+        </div>
+        <div className="content-stretch flex gap-[18px] items-start overflow-clip relative shrink-0 w-full" data-node-id="5:3327" data-name="Карточки отзывов">
+          <div className="bg-[#fffdf8] content-stretch flex flex-[1_0_0] flex-col gap-[24px] items-start min-h-[310px] min-w-px overflow-clip p-[28px] relative rounded-[32px]" data-node-id="5:3328" data-name="Отзыв">
+            <p className="[word-break:break-word] font-['Lora:Bold'] font-bold leading-[0.8] relative shrink-0 text-[#d76f52] text-[36px] whitespace-nowrap" data-node-id="5:3329">
+              “
+            </p>
+            <p className="[word-break:break-word] font-['Lora:Medium'] font-medium leading-[1.5] min-w-full relative shrink-0 text-[#233a36] text-[18px] w-[min-content]" data-node-id="5:3330">
+              На первой же встрече нам спокойно объяснили, что наблюдают и зачем. Сын быстро принял Анну, а домашние рекомендации оказались простыми и выполнимыми.
+            </p>
+            <div className="content-stretch flex gap-[12px] items-center overflow-clip relative shrink-0 w-full" data-node-id="5:3331" data-name="Автор">
+              <div className="bg-[#f2c9b8] content-stretch flex items-center justify-center overflow-clip relative rounded-[999px] shrink-0 size-[42px]" data-node-id="5:3332" data-name="Аватар">
+                <p className="[word-break:break-word] font-['Manrope:ExtraBold'] font-extrabold leading-[normal] relative shrink-0 text-[#233a36] text-[11px] whitespace-nowrap" data-node-id="5:3333">
+                  МИ
+                </p>
+              </div>
+              <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-[3px] items-start leading-[normal] min-w-px overflow-clip relative whitespace-nowrap" data-node-id="5:3334" data-name="Данные автора">
+                <p className="font-['Manrope:ExtraBold'] font-extrabold relative shrink-0 text-[#233a36] text-[13px]" data-node-id="5:3335">
+                  Мария, мама Ильи
+                </p>
+                <p className="font-['Manrope:Regular'] font-normal opacity-76 relative shrink-0 text-[#53635e] text-[11px]" data-node-id="5:3336">
+                  6 лет · нейропсихолог
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="bg-[#315a50] content-stretch flex flex-[1_0_0] flex-col gap-[24px] items-start min-h-[310px] min-w-px overflow-clip p-[28px] relative rounded-[32px]" data-node-id="5:3337" data-name="Отзыв">
+            <p className="[word-break:break-word] font-['Lora:Bold'] font-bold leading-[0.8] relative shrink-0 text-[#f1d889] text-[36px] whitespace-nowrap" data-node-id="5:3338">
+              “
+            </p>
+            <p className="[word-break:break-word] font-['Lora:Medium'] font-medium leading-[1.5] min-w-full relative shrink-0 text-[18px] text-white w-[min-content]" data-node-id="5:3339">
+              Мне важно, что здесь не сравнивают детей. Дочке дали время освоиться, и только потом начали занятия. Мы лучше понимаем её реакции и знаем, как поддержать дома.
+            </p>
+            <div className="content-stretch flex gap-[12px] items-center overflow-clip relative shrink-0 w-full" data-node-id="5:3340" data-name="Автор">
+              <div className="bg-[#d76f52] content-stretch flex items-center justify-center overflow-clip relative rounded-[999px] shrink-0 size-[42px]" data-node-id="5:3341" data-name="Аватар">
+                <p className="[word-break:break-word] font-['Manrope:ExtraBold'] font-extrabold leading-[normal] relative shrink-0 text-[11px] text-white whitespace-nowrap" data-node-id="5:3342">
+                  ОВ
+                </p>
+              </div>
+              <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-[3px] items-start leading-[normal] min-w-px overflow-clip relative text-white whitespace-nowrap" data-node-id="5:3343" data-name="Данные автора">
+                <p className="font-['Manrope:ExtraBold'] font-extrabold relative shrink-0 text-[13px]" data-node-id="5:3344">
+                  Ольга, мама Веры
+                </p>
+                <p className="font-['Manrope:Regular'] font-normal opacity-76 relative shrink-0 text-[11px]" data-node-id="5:3345">
+                  4 года · психолог
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="bg-[#fffdf8] content-stretch flex flex-[1_0_0] flex-col gap-[24px] items-start min-h-[310px] min-w-px overflow-clip p-[28px] relative rounded-[32px]" data-node-id="5:3346" data-name="Отзыв">
+            <p className="[word-break:break-word] font-['Lora:Bold'] font-bold leading-[0.8] relative shrink-0 text-[#d76f52] text-[36px] whitespace-nowrap" data-node-id="5:3347">
+              “
+            </p>
+            <p className="[word-break:break-word] font-['Lora:Medium'] font-medium leading-[1.5] min-w-full relative shrink-0 text-[#233a36] text-[18px] w-[min-content]" data-node-id="5:3348">
+              Пришли перед школой: волновались из-за речи и внимания. Получили ясный план, регулярную связь со специалистами и спокойное ощущение, что мы в одной команде.
+            </p>
+            <div className="content-stretch flex gap-[12px] items-center overflow-clip relative shrink-0 w-full" data-node-id="5:3349" data-name="Автор">
+              <div className="bg-[#f2c9b8] content-stretch flex items-center justify-center overflow-clip relative rounded-[999px] shrink-0 size-[42px]" data-node-id="5:3350" data-name="Аватар">
+                <p className="[word-break:break-word] font-['Manrope:ExtraBold'] font-extrabold leading-[normal] relative shrink-0 text-[#233a36] text-[11px] whitespace-nowrap" data-node-id="5:3351">
+                  АМ
+                </p>
+              </div>
+              <div className="[word-break:break-word] content-stretch flex flex-[1_0_0] flex-col gap-[3px] items-start leading-[normal] min-w-px overflow-clip relative whitespace-nowrap" data-node-id="5:3352" data-name="Данные автора">
+                <p className="font-['Manrope:ExtraBold'] font-extrabold relative shrink-0 text-[#233a36] text-[13px]" data-node-id="5:3353">
+                  Алексей, папа Максима
+                </p>
+                <p className="font-['Manrope:Regular'] font-normal opacity-76 relative shrink-0 text-[#53635e] text-[11px]" data-node-id="5:3354">
+                  7 лет · логопед
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="relative shrink-0 size-0" data-node-id="5:3355" data-name="Декоративная точка">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={img12} />
+        </div>
+      </div>
+      <div className="bg-[#fffdf8] content-stretch flex gap-[84px] items-start overflow-clip px-[72px] py-[104px] relative shrink-0 w-[1440px]" data-node-id="5:3356" data-name="Частые вопросы">
+        <div className="content-stretch flex flex-col gap-[34px] items-start overflow-clip relative shrink-0 w-[400px]" data-node-id="5:3357" data-name="Вводная часть">
+          <div className="content-stretch flex flex-col gap-[16px] items-start overflow-clip relative shrink-0 w-[400px]" data-node-id="5:3358" data-name="Заголовок раздела">
+            <div className="content-stretch flex gap-[8px] items-center overflow-clip relative shrink-0" data-node-id="5:3359" data-name="Рубрика">
+              <div className="relative shrink-0 size-[8px]" data-node-id="5:3360" data-name="Маркер">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={img} />
+              </div>
+              <p className="[word-break:break-word] font-['Manrope:ExtraBold'] font-extrabold leading-[normal] relative shrink-0 text-[#53635e] text-[13px] uppercase whitespace-nowrap" data-node-id="5:3361">
+                Вопросы и ответы
+              </p>
+            </div>
+            <p className="[word-break:break-word] font-['Lora:SemiBold'] font-semibold leading-[1.12] min-w-full relative shrink-0 text-[#233a36] text-[44px] w-[min-content]" data-node-id="5:3362">
+              Можно спросить обо всём, что волнует
+            </p>
+            <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[1.65] min-w-full relative shrink-0 text-[#53635e] text-[16px] w-[min-content]" data-node-id="5:3363">
+              Если не нашли ответа, напишите нам — координатор ответит в рабочее время и поможет с первым шагом.
+            </p>
+          </div>
+          <div className="bg-[#f5f1e9] content-stretch flex flex-col gap-[16px] items-start overflow-clip p-[24px] relative rounded-[20px] shrink-0 w-full" data-node-id="5:3364" data-name="Быстрый контакт">
+            <div className="bg-[#f1d889] content-stretch flex items-center justify-center overflow-clip relative rounded-[999px] shrink-0 size-[48px]" data-node-id="5:3365" data-name="Иконка контакта">
+              <div className="relative shrink-0 size-[23px]" data-node-id="5:3554" data-name="messages-square">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgMessagesSquare1} />
+              </div>
+            </div>
+            <p className="[word-break:break-word] font-['Lora:SemiBold'] font-semibold leading-[normal] relative shrink-0 text-[#233a36] text-[20px] whitespace-nowrap" data-node-id="5:3367">
+              Ответим без сложных терминов
+            </p>
+            <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[1.5] min-w-full relative shrink-0 text-[#53635e] text-[13px] w-[min-content]" data-node-id="5:3368">
+              В среднем отвечаем в течение 20 минут ежедневно с 9:00 до 20:00.
+            </p>
+            <div className="bg-[rgba(255,255,255,0)] border border-[#d8d2c6] border-solid content-stretch flex h-[54px] items-center justify-center overflow-clip px-[24px] relative rounded-[999px] shrink-0" data-node-id="5:3369" data-name="Кнопка">
+              <p className="[word-break:break-word] font-['Manrope:Bold'] font-bold leading-[normal] relative shrink-0 text-[#233a36] text-[15px] whitespace-nowrap" data-node-id="5:3370">
+                Написать в мессенджер
+              </p>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-[1_0_0] flex-col gap-[12px] items-start min-w-px overflow-clip relative" data-node-id="5:3371" data-name="Список вопросов">
+          <div className="bg-[#dce6dd] content-stretch flex flex-col gap-[16px] items-start overflow-clip p-[24px] relative rounded-[20px] shrink-0 w-full" data-node-id="5:3372" data-name="Вопрос">
+            <div className="content-stretch flex gap-[20px] items-center overflow-clip relative shrink-0 w-full" data-node-id="5:3373" data-name="Строка вопроса">
+              <p className="[word-break:break-word] flex-[1_0_0] font-['Manrope:ExtraBold'] font-extrabold leading-[1.4] min-w-px relative text-[#233a36] text-[15px]" data-node-id="5:3374">
+                С чего начать, если мы не знаем, какой специалист нужен?
+              </p>
+              <div className="bg-[#315a50] content-stretch flex items-center justify-center overflow-clip relative rounded-[999px] shrink-0 size-[36px]" data-node-id="5:3375" data-name="Переключатель">
+                <div className="relative shrink-0 size-[17px]" data-node-id="5:3557" data-name="minus">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgMinus} />
+                </div>
+              </div>
+            </div>
+            <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[1.6] relative shrink-0 text-[#53635e] text-[13px] w-[650px]" data-node-id="5:3377">
+              Оставьте заявку на первичную консультацию. Координатор уточнит возраст и запрос, а на встрече специалист предложит подходящий формат знакомства и диагностики.
+            </p>
+          </div>
+          <div className="bg-[#f5f1e9] content-stretch flex flex-col items-start overflow-clip p-[22px] relative rounded-[20px] shrink-0 w-full" data-node-id="5:3378" data-name="Вопрос">
+            <div className="content-stretch flex gap-[20px] items-center overflow-clip relative shrink-0 w-full" data-node-id="5:3379" data-name="Строка вопроса">
+              <p className="[word-break:break-word] flex-[1_0_0] font-['Manrope:ExtraBold'] font-extrabold leading-[1.4] min-w-px relative text-[#233a36] text-[15px]" data-node-id="5:3380">
+                Можно ли родителю присутствовать на занятии?
+              </p>
+              <div className="bg-[#fffdf8] content-stretch flex items-center justify-center overflow-clip relative rounded-[999px] shrink-0 size-[36px]" data-node-id="5:3381" data-name="Переключатель">
+                <div className="relative shrink-0 size-[17px]" data-node-id="5:3560" data-name="plus">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgPlus} />
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="bg-[#f5f1e9] content-stretch flex flex-col items-start overflow-clip p-[22px] relative rounded-[20px] shrink-0 w-full" data-node-id="5:3383" data-name="Вопрос">
+            <div className="content-stretch flex gap-[20px] items-center overflow-clip relative shrink-0 w-full" data-node-id="5:3384" data-name="Строка вопроса">
+              <p className="[word-break:break-word] flex-[1_0_0] font-['Manrope:ExtraBold'] font-extrabold leading-[1.4] min-w-px relative text-[#233a36] text-[15px]" data-node-id="5:3385">
+                Сколько занятий обычно требуется?
+              </p>
+              <div className="bg-[#fffdf8] content-stretch flex items-center justify-center overflow-clip relative rounded-[999px] shrink-0 size-[36px]" data-node-id="5:3386" data-name="Переключатель">
+                <div className="relative shrink-0 size-[17px]" data-node-id="5:3563" data-name="plus">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgPlus} />
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="bg-[#f5f1e9] content-stretch flex flex-col items-start overflow-clip p-[22px] relative rounded-[20px] shrink-0 w-full" data-node-id="5:3388" data-name="Вопрос">
+            <div className="content-stretch flex gap-[20px] items-center overflow-clip relative shrink-0 w-full" data-node-id="5:3389" data-name="Строка вопроса">
+              <p className="[word-break:break-word] flex-[1_0_0] font-['Manrope:ExtraBold'] font-extrabold leading-[1.4] min-w-px relative text-[#233a36] text-[15px]" data-node-id="5:3390">
+                Вы работаете с заключениями из других центров?
+              </p>
+              <div className="bg-[#fffdf8] content-stretch flex items-center justify-center overflow-clip relative rounded-[999px] shrink-0 size-[36px]" data-node-id="5:3391" data-name="Переключатель">
+                <div className="relative shrink-0 size-[17px]" data-node-id="5:3566" data-name="plus">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgPlus} />
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="bg-[#f5f1e9] content-stretch flex flex-col items-start overflow-clip p-[22px] relative rounded-[20px] shrink-0 w-full" data-node-id="5:3393" data-name="Вопрос">
+            <div className="content-stretch flex gap-[20px] items-center overflow-clip relative shrink-0 w-full" data-node-id="5:3394" data-name="Строка вопроса">
+              <p className="[word-break:break-word] flex-[1_0_0] font-['Manrope:ExtraBold'] font-extrabold leading-[1.4] min-w-px relative text-[#233a36] text-[15px]" data-node-id="5:3395">
+                Что делать, если ребёнок не захочет заниматься?
+              </p>
+              <div className="bg-[#fffdf8] content-stretch flex items-center justify-center overflow-clip relative rounded-[999px] shrink-0 size-[36px]" data-node-id="5:3396" data-name="Переключатель">
+                <div className="relative shrink-0 size-[17px]" data-node-id="5:3569" data-name="plus">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgPlus} />
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="bg-[#f5f1e9] content-stretch flex flex-col items-start overflow-clip p-[22px] relative rounded-[20px] shrink-0 w-full" data-node-id="5:3398" data-name="Вопрос">
+            <div className="content-stretch flex gap-[20px] items-center overflow-clip relative shrink-0 w-full" data-node-id="5:3399" data-name="Строка вопроса">
+              <p className="[word-break:break-word] flex-[1_0_0] font-['Manrope:ExtraBold'] font-extrabold leading-[1.4] min-w-px relative text-[#233a36] text-[15px]" data-node-id="5:3400">
+                Есть ли онлайн-консультации для родителей?
+              </p>
+              <div className="bg-[#fffdf8] content-stretch flex items-center justify-center overflow-clip relative rounded-[999px] shrink-0 size-[36px]" data-node-id="5:3401" data-name="Переключатель">
+                <div className="relative shrink-0 size-[17px]" data-node-id="5:3572" data-name="plus">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgPlus} />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="bg-[#315a50] content-stretch flex gap-[88px] items-center overflow-clip px-[72px] py-[92px] relative shrink-0 w-[1440px]" data-node-id="5:3403" data-name="Запись на консультацию">
+        <div className="content-stretch flex flex-col gap-[28px] items-start overflow-clip relative shrink-0 w-[570px]" data-node-id="5:3404" data-name="Призыв и контакты">
+          <div className="content-stretch flex gap-[10px] items-center overflow-clip relative shrink-0" data-node-id="5:3405" data-name="Метка консультации">
+            <div className="bg-[#f1d889] content-stretch flex items-center justify-center overflow-clip relative rounded-[999px] shrink-0 size-[34px]" data-node-id="5:3406" data-name="Иконка">
+              <div className="relative shrink-0 size-[17px]" data-node-id="5:3575" data-name="heart">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgHeart} />
+              </div>
+            </div>
+            <p className="[word-break:break-word] font-['Manrope:ExtraBold'] font-extrabold leading-[normal] relative shrink-0 text-[13px] text-white uppercase whitespace-nowrap" data-node-id="5:3408">
+              первый шаг
+            </p>
+          </div>
+          <p className="[word-break:break-word] font-['Lora:SemiBold'] font-semibold leading-[1.12] min-w-full relative shrink-0 text-[44px] text-white w-[min-content]" data-node-id="5:3409">
+            Давайте спокойно разберёмся, какая поддержка нужна сейчас
+          </p>
+          <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[1.65] opacity-82 relative shrink-0 text-[16px] text-white w-[520px]" data-node-id="5:3410">
+            Оставьте контакты — координатор позвонит, уточнит запрос и предложит удобное время для первой встречи. Это ни к чему не обязывает.
+          </p>
+          <div className="[word-break:break-word] content-stretch flex gap-[14px] items-start leading-[normal] overflow-clip relative shrink-0 text-white w-full whitespace-nowrap" data-node-id="5:3411" data-name="Контактные способы">
+            <div className="bg-[rgba(255,255,255,0.07)] content-stretch flex flex-[1_0_0] flex-col gap-[6px] items-start min-w-px overflow-clip p-[18px] relative rounded-[20px]" data-node-id="5:3412" data-name="Телефон центра">
+              <p className="font-['Manrope:Regular'] font-normal opacity-64 relative shrink-0 text-[11px] uppercase" data-node-id="5:3413">
+                Позвонить
+              </p>
+              <p className="font-['Manrope:ExtraBold'] font-extrabold relative shrink-0 text-[15px]" data-node-id="5:3414">
+                +7 (495) 128-44-19
+              </p>
+            </div>
+            <div className="bg-[rgba(255,255,255,0.07)] content-stretch flex flex-[1_0_0] flex-col gap-[6px] items-start min-w-px overflow-clip p-[18px] relative rounded-[20px]" data-node-id="5:3415" data-name="Адрес центра">
+              <p className="font-['Manrope:Regular'] font-normal opacity-64 relative shrink-0 text-[11px] uppercase" data-node-id="5:3416">
+                Приехать
+              </p>
+              <p className="font-['Manrope:ExtraBold'] font-extrabold relative shrink-0 text-[15px]" data-node-id="5:3417">
+                Москва, ул. Усачёва, 11
+              </p>
+            </div>
+          </div>
+        </div>
+        <div className="bg-[#fffdf8] content-stretch flex flex-[1_0_0] flex-col gap-[18px] items-start min-w-px overflow-clip p-[34px] relative rounded-[32px] shadow-[0px_14px_36px_-8px_rgba(35,58,54,0.09)]" data-node-id="5:3418" data-name="Форма записи">
+          <p className="[word-break:break-word] font-['Lora:SemiBold'] font-semibold leading-[normal] relative shrink-0 text-[#233a36] text-[26px] whitespace-nowrap" data-node-id="5:3419">
+            Записаться на консультацию
+          </p>
+          <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[1.5] min-w-full relative shrink-0 text-[#53635e] text-[13px] w-[min-content]" data-node-id="5:3420">
+            Расскажите немного о ребёнке — остальное обсудим лично.
+          </p>
+          <div className="content-start flex flex-wrap gap-[12px] items-start overflow-clip relative shrink-0 w-full" data-node-id="5:3421" data-name="Поля формы">
+            <div className="bg-[#f5f1e9] border border-[#d8d2c6] border-solid content-stretch flex flex-col h-[58px] items-start justify-center overflow-clip px-[18px] relative rounded-[12px] shrink-0 w-[270px]" data-node-id="5:3422" data-name="Поле имени">
+              <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[normal] relative shrink-0 text-[#53635e] text-[13px] whitespace-nowrap" data-node-id="5:3423">
+                Ваше имя
+              </p>
+            </div>
+            <div className="bg-[#f5f1e9] border border-[#d8d2c6] border-solid content-stretch flex flex-col h-[58px] items-start justify-center overflow-clip px-[18px] relative rounded-[12px] shrink-0 w-[270px]" data-node-id="5:3424" data-name="Поле телефона">
+              <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[normal] relative shrink-0 text-[#53635e] text-[13px] whitespace-nowrap" data-node-id="5:3425">
+                +7 (___) ___-__-__
+              </p>
+            </div>
+            <div className="bg-[#f5f1e9] border border-[#d8d2c6] border-solid content-stretch flex flex-[1_0_0] flex-col h-[58px] items-start justify-center min-w-px overflow-clip px-[18px] relative rounded-[12px]" data-node-id="5:3426" data-name="Поле возраста">
+              <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[normal] relative shrink-0 text-[#53635e] text-[13px] whitespace-nowrap" data-node-id="5:3427">
+                Возраст ребёнка и кратко ваш вопрос
+              </p>
+            </div>
+          </div>
+          <div className="content-stretch flex gap-[16px] items-center overflow-clip relative shrink-0 w-full" data-node-id="5:3428" data-name="Отправка формы">
+            <div className="bg-[#d76f52] border border-[#d76f52] border-solid content-stretch flex gap-[10px] h-[54px] items-center justify-center overflow-clip px-[24px] relative rounded-[999px] shrink-0" data-node-id="5:3429" data-name="Кнопка">
+              <p className="[word-break:break-word] font-['Manrope:Bold'] font-bold leading-[normal] relative shrink-0 text-[15px] text-white whitespace-nowrap" data-node-id="5:3430">
+                Отправить заявку
+              </p>
+              <div className="relative shrink-0 size-[18px]" data-node-id="5:3578" data-name="arrow-right">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgArrowRight} />
+              </div>
+            </div>
+            <p className="[word-break:break-word] flex-[1_0_0] font-['Manrope:Regular'] font-normal leading-[1.4] min-w-px relative text-[#53635e] text-[10px]" data-node-id="5:3432">
+              Нажимая кнопку, вы соглашаетесь с политикой обработки персональных данных.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div className="bg-[#233a36] content-stretch flex flex-col gap-[54px] items-start overflow-clip pb-[34px] pt-[62px] px-[72px] relative shrink-0 w-[1440px]" data-node-id="5:3433" data-name="Контакты и подвал">
+        <div className="content-stretch flex items-start justify-between overflow-clip relative shrink-0 w-full" data-node-id="5:3434" data-name="Контакты">
+          <div className="content-stretch flex flex-col gap-[18px] items-start overflow-clip relative shrink-0 w-[310px]" data-node-id="5:3435" data-name="О центре">
+            <div className="content-stretch flex gap-[12px] items-center overflow-clip relative shrink-0" data-node-id="5:3436" data-name="Логотип">
+              <div className="bg-[#d76f52] content-stretch flex items-center justify-center overflow-clip relative rounded-[999px] shrink-0 size-[42px]" data-node-id="5:3437" data-name="Знак">
+                <div className="relative shrink-0 size-[23px]" data-node-id="5:3581" data-name="sprout">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSprout1} />
+                </div>
+              </div>
+              <div className="[word-break:break-word] content-stretch flex flex-col font-bold gap-px items-start leading-[normal] overflow-clip relative shrink-0 text-white whitespace-nowrap" data-node-id="5:3439" data-name="Название">
+                <p className="font-['Lora:Bold'] relative shrink-0 text-[23px]" data-node-id="5:3440">
+                  Берег
+                </p>
+                <p className="font-['Manrope:Bold'] opacity-72 relative shrink-0 text-[9px] uppercase" data-node-id="5:3441">
+                  центр развития
+                </p>
+              </div>
+            </div>
+            <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[1.6] min-w-full opacity-62 relative shrink-0 text-[12px] text-white w-[min-content]" data-node-id="5:3442">
+              Центр развития и нейрокоррекции для детей от 2 до 12 лет. Работаем вместе с ребёнком и семьёй.
+            </p>
+          </div>
+          <div className="content-stretch flex flex-col gap-[10px] items-start overflow-clip relative shrink-0 w-[280px]" data-node-id="5:3443" data-name="Адрес">
+            <p className="[word-break:break-word] font-['Manrope:ExtraBold'] font-extrabold leading-[normal] relative shrink-0 text-[#f2c9b8] text-[11px] uppercase whitespace-nowrap" data-node-id="5:3444">
+              Мы находимся
+            </p>
+            <div className="[word-break:break-word] font-['Manrope:Bold'] font-bold leading-[0] min-w-full relative shrink-0 text-[15px] text-white w-[min-content]" data-node-id="5:3445">
+              <p className="leading-[1.5] mb-0">Москва, ул. Усачёва, 11</p>
+              <p className="leading-[1.5]">5 минут от м. Спортивная</p>
+            </div>
+            <div className="content-stretch flex gap-[7px] items-center overflow-clip relative shrink-0" data-node-id="5:3446" data-name="Маршрут">
+              <div className="relative shrink-0 size-[16px]" data-node-id="5:3584" data-name="map-pin">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgMapPin} />
+              </div>
+              <p className="[word-break:break-word] font-['Manrope:Bold'] font-bold leading-[normal] relative shrink-0 text-[#f1d889] text-[12px] whitespace-nowrap" data-node-id="5:3448">
+                Построить маршрут
+              </p>
+            </div>
+          </div>
+          <div className="[word-break:break-word] content-stretch flex flex-col gap-[10px] items-start overflow-clip relative shrink-0 w-[240px] whitespace-nowrap" data-node-id="5:3449" data-name="Связь">
+            <p className="font-['Manrope:ExtraBold'] font-extrabold leading-[normal] relative shrink-0 text-[#f2c9b8] text-[11px] uppercase" data-node-id="5:3450">
+              Связаться
+            </p>
+            <p className="font-['Manrope:ExtraBold'] font-extrabold leading-[normal] relative shrink-0 text-[17px] text-white" data-node-id="5:3451">
+              +7 (495) 128-44-19
+            </p>
+            <p className="font-['Manrope:Regular'] font-normal leading-[normal] opacity-72 relative shrink-0 text-[13px] text-white" data-node-id="5:3452">
+              hello@bereg-center.ru
+            </p>
+            <p className="font-['Manrope:Regular'] font-normal leading-[1.5] opacity-62 relative shrink-0 text-[12px] text-white" data-node-id="5:3453">
+              Пн–Вс · 9:00–20:00
+            </p>
+          </div>
+          <div className="content-stretch flex flex-col gap-[12px] items-start overflow-clip relative shrink-0 w-[190px]" data-node-id="5:3454" data-name="Социальные сети">
+            <p className="[word-break:break-word] font-['Manrope:ExtraBold'] font-extrabold leading-[normal] relative shrink-0 text-[#f2c9b8] text-[11px] uppercase whitespace-nowrap" data-node-id="5:3455">
+              Мы на связи
+            </p>
+            <div className="content-stretch flex gap-[10px] items-start overflow-clip relative shrink-0" data-node-id="5:3456" data-name="Иконки">
+              <div className="bg-[rgba(255,255,255,0.07)] content-stretch flex items-center justify-center overflow-clip relative rounded-[999px] shrink-0 size-[40px]" data-node-id="5:3457" data-name="Телеграм">
+                <div className="relative shrink-0 size-[18px]" data-node-id="5:3587" data-name="send">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSend} />
+                </div>
+              </div>
+              <div className="bg-[rgba(255,255,255,0.07)] content-stretch flex items-center justify-center overflow-clip relative rounded-[999px] shrink-0 size-[40px]" data-node-id="5:3459" data-name="Сообщество">
+                <div className="relative shrink-0 size-[18px]" data-node-id="5:3590" data-name="message-circle">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgMessageCircle} />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="[word-break:break-word] border-solid border-t border-white content-stretch flex font-['Manrope:Regular'] font-normal items-start justify-between leading-[normal] overflow-clip pt-[24px] relative shrink-0 text-[10px] text-white w-full whitespace-nowrap" data-node-id="5:3461" data-name="Правовая информация">
+          <p className="opacity-44 relative shrink-0" data-node-id="5:3462">
+            © 2026 Центр «Берег». Информация на сайте не заменяет консультацию специалиста.
+          </p>
+          <div className="content-stretch flex gap-[24px] items-start overflow-clip relative shrink-0" data-node-id="5:3463" data-name="Правовые ссылки">
+            <p className="opacity-44 relative shrink-0" data-node-id="5:3464">
+              Политика конфиденциальности
+            </p>
+            <p className="opacity-44 relative shrink-0" data-node-id="5:3465">
+              Сведения об организации
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
